@@ -1,0 +1,16 @@
+Epoch [1/100], Step [400/400], Loss: 0.0196
+Epoch [2/100], Step [400/400], Loss: 0.0151
+Epoch [3/100], Step [400/400], Loss: 0.0151
+Epoch [4/100], Step [400/400], Loss: 0.0151
+
+Average training loss: 0.02
+Best training loss: 0.02
+Worst training loss: 0.02
+
+Average training time: 6.36 s
+Best training time: 5.80 s
+Worst training time: 7.98 s
+
+Average testing loss: 0.02
+Best testing loss: 0.01
+Worst testing loss: 0.02

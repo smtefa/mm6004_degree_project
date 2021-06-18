@@ -1,0 +1,36 @@
+Epoch [1/100], Step [400/400], Loss: 0.4719
+Epoch [2/100], Step [400/400], Loss: 0.0320
+Epoch [3/100], Step [400/400], Loss: 0.0785
+Epoch [4/100], Step [400/400], Loss: 0.0244
+Epoch [5/100], Step [400/400], Loss: 0.2992
+Epoch [6/100], Step [400/400], Loss: 0.0182
+Epoch [7/100], Step [400/400], Loss: 1.3315
+Epoch [8/100], Step [400/400], Loss: 1.5985
+Epoch [9/100], Step [400/400], Loss: 0.7725
+Epoch [10/100], Step [400/400], Loss: 0.0833
+Epoch [11/100], Step [400/400], Loss: 0.5250
+Epoch [12/100], Step [400/400], Loss: 0.7352
+Epoch [13/100], Step [400/400], Loss: 0.2233
+Epoch [14/100], Step [400/400], Loss: 0.0492
+Epoch [15/100], Step [400/400], Loss: 0.0385
+Epoch [16/100], Step [400/400], Loss: 0.0186
+Epoch [17/100], Step [400/400], Loss: 0.0189
+Epoch [18/100], Step [400/400], Loss: 0.0198
+Epoch [19/100], Step [400/400], Loss: 0.0206
+Epoch [20/100], Step [400/400], Loss: 0.0168
+Epoch [21/100], Step [400/400], Loss: 0.0155
+Epoch [22/100], Step [400/400], Loss: 0.0151
+Epoch [23/100], Step [400/400], Loss: 0.0150
+Epoch [24/100], Step [400/400], Loss: 0.0150
+
+Average training loss: 0.27
+Best training loss: 0.02
+Worst training loss: 1.60
+
+Average training time: 5.82 s
+Best training time: 5.38 s
+Worst training time: 7.18 s
+
+Average testing loss: 0.02
+Best testing loss: 0.01
+Worst testing loss: 0.02
