@@ -111,9 +111,6 @@ class TestStringMethods(unittest.TestCase):
         self.assertEqual(naq_min, 3.14)
         self.assertEqual(lbfgs_min, 3.14)
         self.assertEqual(slbfgs_min, 3.14)
-
-    # def test_split(self):
-        
-
+      
 if __name__ == '__main__':
     unittest.main()
