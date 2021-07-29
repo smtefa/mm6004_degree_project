@@ -16,5 +16,5 @@ Code for the bachelor's degree project in mathematics.
     neural networks in their construction and the correctness of quasi-Newton methods.
     
 * How to recreate the results:
-  * Change "w = nn1.train(method="BFGS", params=[1e-3, 1e-3], train_set=Tr1, batch_size=400, epochs=10)" accordingly as described in
+  * In "main.py", change "w = nn1.train(method="BFGS", params=[1e-3, 1e-3], train_set=Tr1, batch_size=400, epochs=10)" accordingly as described in
     the file.
