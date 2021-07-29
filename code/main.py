@@ -35,6 +35,14 @@ if __name__ == '__main__':
     
     # Training/testing
     
+    '''
+    Viable choices for method are: "BFGS", "L-BFGS", "SL-BFGS" and "NAQ".
+    When the method is chosen, set params accordingly:
+        for BFGS, choose params=[c_armijo, rho_armijo],
+        for NAQ, choose params=[mu, c_armijo, rho_armijo],
+        for L-BFGS, choose params=[m, c_armijo, rho_armijo],
+        for SL-BFGS, choose params=[m, r, c_armijo, rho_armijo].
+    '''
     w = nn1.train(method="BFGS", params=[1e-3, 1e-3],
                   train_set=Tr1, batch_size=400, epochs=10)
     nn1.test(w=w, test_set=Te1, batch_size=400, epochs=1)
