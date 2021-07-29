@@ -25,3 +25,6 @@ Code for the bachelor's degree project in mathematics.
   * In [code/main.py](https://github.com/stmi98/mm6004_degree_project/blob/main/code/main.py), change
     "w = nn1.train(method="BFGS", params=[1e-3, 1e-3], train_set=Tr1, batch_size=400, epochs=10)" accordingly
     as described in the file, then run the file.
+
+* To check the results obtained in the paper, see
+  [experiments/](https://github.com/stmi98/mm6004_degree_project/tree/main/experiments).
