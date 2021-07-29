@@ -2,6 +2,10 @@
 
 Code for the bachelor's degree project in mathematics.
 
+* Requirements:
+  * Python 3
+  * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) for CuPy library used
+
 * There are several files in this project and each one of them is responsible for certain tasks.
   * File "ann.py" handles creation and execution of neural networks used in this project, as well as their training/testing. The
     networks are built from scratch without external libraries.
