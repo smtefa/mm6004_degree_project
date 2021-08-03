@@ -56,7 +56,7 @@ class TestStringMethods(unittest.TestCase):
         
         x_slbfgs = cp.array([2.7, 1.3])
         
-        for i in range(25):
+        for i in range(50):
             try:
                 x_bfgs, H_bfgs = qn_opt.bfgs(x=x_bfgs,
                                              f=f,
